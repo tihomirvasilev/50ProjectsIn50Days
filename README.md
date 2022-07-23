@@ -10,6 +10,7 @@ This is the main repository for all of the projects.
 | 04  | [Hidden Search Widget](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Hidden%20Search%20Widget)                          |
 | 05  | [Blurry Loading](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Blurry%20Loading)                               |
 | 06  | [Scroll Animation](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Scroll%20Animation)                           |
+| 07  | [Split Landing Page](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Split%20Landing%20Page)                           |
 
 ## License
 
