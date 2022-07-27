@@ -12,6 +12,7 @@ This is the main repository for all of the projects.
 | 06  | [Scroll Animation](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Scroll%20Animation)                           |
 | 07  | [Split Landing Page](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Split%20Landing%20Page)                           |
 | 08  | [Form Wave Animation](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Form%20Wave%20Animation)                           |
+| 09  | [Sound Board](https://github.com/tihomirvasilev/Project-examples-with-HTML-CSS-JS/tree/main/Sound%20Board)                           |
 
 ## License
 
